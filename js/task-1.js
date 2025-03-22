@@ -4,7 +4,7 @@ function slugify(title) {
   return title.toLowerCase().split(" ").join("-");
 }
 
-console.log(slugify("My First Blog Post"));
-console.log(slugify("JavaScript Basics and Beyond"));
-console.log(slugify("Learn to Code for Free"));
-console.log(slugify("Frontend Development Tips"));
+console.log(slugify("Arrays for beginners"));
+console.log(slugify("English for developer"));
+console.log(slugify("Ten secrets of JavaScript"));
+console.log(slugify("How to become a JUNIOR developer in TWO WEEKS"));
